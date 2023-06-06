@@ -98,7 +98,7 @@ void Stat::kezd()
 
 void Stat::vege()
 {
-    ido = (unsigned int)((std::clock() - c) * 1000.0 / CLOCKS_PER_SEC);
+    ido = (unsigned int)((clock() - c) * 1000.0 / CLOCKS_PER_SEC);
 }
 
 void Stat::incHasonlit()
