@@ -1,3 +1,6 @@
+// Kosa Matyas, kmim2252
+// 512
+
 #include <iostream>
 #include "header.h"
 using namespace std;
